@@ -96,12 +96,8 @@ npm start
 
 Then open [http://localhost:3000](http://localhost:3000) and log in with any credential from the table above.
 
----
 
-## 📸 Screenshots
 
-> _Add screenshots here — one per role is ideal (Employee dashboard, Manager approval, Admin analytics)._
-> Drag and drop images directly into this file on GitHub to upload them.
 
 ---
 
